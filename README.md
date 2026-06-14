@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=M%20Bharath%20Priyan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20AI%20%26%20Data%20Science%20Engineer&descAlignY=62&descSize=16)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=M%20Bharath%20Priyan&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Aspiring%20AI%20%26%20Data%20Science%20Engineer&amp;descAlignY=62&amp;descSize=16" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=B.Tech+AI+%26+Data+Science+Student;Python+%7C+C%2B%2B+Developer;Solved+100%2B+LeetCode+Problems;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
@@ -45,29 +45,29 @@ print(me.motto())
 <div align="center">
 
 <a href="https://github.com/Bharathpriyan04">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=M%20Bharath%20Priyan&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Aspiring%20AI%20%26%20Data%20Science%20Engineer&amp;descAlignY=62&amp;descSize=16" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharathpriyan04&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10" width="49%" />
 </a>
 <a href="https://github.com/Bharathpriyan04">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathpriyan04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathpriyan04&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10" width="40%" />
 </a>
 
 </div>
 
 <div align="center">
 
-![Streak Stats](https://streak-stats.demolab.com?user=Bharathpriyan04&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
+<img src="https://streak-stats.demolab.com?user=Bharathpriyan04&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" />
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharathpriyan04&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharathpriyan04&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" />
 
 </div>
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Bharathpriyan04&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=Bharathpriyan04&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4" />
 
 </div>
 
@@ -149,8 +149,9 @@ print(me.motto())
 </div>
 
 ### 📚 Currently Learning
+
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" />
 
 </div>
