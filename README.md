@@ -1,16 +1,156 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Bharathpriyan04/Bharathpriyan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=M%20Bharath%20Priyan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20AI%20%26%20Data%20Science%20Engineer&descAlignY=62&descSize=16)
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=B.Tech+AI+%26+Data+Science+Student;Python+%7C+C%2B%2B+Developer;Solved+100%2B+LeetCode+Problems;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```python
+class BharathPriyan:
+    def __init__(self):
+        self.name = "M Bharath Priyan"
+        self.location = "Chennai, India"
+        self.degree = "B.Tech - AI & Data Science, Chennai Institute of Technology"
+        self.stack = ["Python", "C++"]
+        self.tools = ["VS Code", "ChatGPT", "Gemini AI", "Jupyter Notebook"]
+        self.currently_learning = ["Data Analytics", "Front-End Development"]
+        self.fun_fact = "Solved 100+ LeetCode problems!"
+
+    def motto(self):
+        return "Learn. Build. Repeat."
+
+me = BharathPriyan()
+print(me.motto())
+```
+
+<br clear="right"/>
+
+### 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Tools**
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+---
+
+<div align="center">
+
+<a href="https://github.com/Bharathpriyan04">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharathpriyan04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" width="49%" />
+</a>
+<a href="https://github.com/Bharathpriyan04">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathpriyan04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" width="40%" />
+</a>
+
+</div>
+
+<div align="center">
+
+![Streak Stats](https://streak-stats.demolab.com?user=Bharathpriyan04&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharathpriyan04&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Bharathpriyan04&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
+
+</div>
+
+---
+
+### 💼 Internship / Job Simulation Experience
+
+<details>
+<summary><b>TATA — GenAI Powered Data Analytics Job Simulation</b></summary>
+<br>
+
+> `GenAI` `Data Analytics`
+
+- Completed a forage-based job simulation focused on applying GenAI tools to data analytics workflows
+- Gained hands-on exposure to industry-style analytics tasks and reporting
+- Earned a verified completion certificate
+
+</details>
+
+<details>
+<summary><b>Forage — Data Labeling Job Simulation</b></summary>
+<br>
+
+> `Data Labeling` `Data Quality`
+
+- Practiced labeling and structuring raw data for ML pipeline readiness
+- Learned data annotation best practices used in real-world AI projects
+- Earned a verified completion certificate
+
+</details>
+
+<details>
+<summary><b>Skyscanner — Front-End Software Engineering Job Simulation</b></summary>
+<br>
+
+> `Front-End Development` `Software Engineering`
+
+- Worked through front-end engineering tasks modeled on Skyscanner's real workflows
+- Built practical experience in front-end problem-solving and UI logic
+- Earned a verified completion certificate
+
+</details>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|---|---|---|
+| [E-Commerce Website](https://github.com/Bharathpriyan04) | HTML, CSS, JavaScript | Built a functional e-commerce site with product listing and shopping flow |
+
+</div>
+
+---
+
+### 🏆 Achievements
+
+<div align="center">
+
+| 🏅 | Achievement | Details |
+|---|---|---|
+| 💻 | LeetCode Problem Solving | Solved 100+ problems |
+| 🎓 | Job Simulation Certifications | TATA, Forage, and Skyscanner verified simulations |
+
+</div>
+
+---
+
+### 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| B.Tech - Artificial Intelligence and Data Science | Chennai Institute of Technology | 2025 | CGPA: Not yet available |
+
+</div>
+
+### 📚 Currently Learning
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+
+</div>
