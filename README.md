@@ -45,7 +45,7 @@ print(me.motto())
 <div align="center">
 
 <a href="https://github.com/Bharathpriyan04">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bharathpriyan04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" width="49%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=M%20Bharath%20Priyan&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Aspiring%20AI%20%26%20Data%20Science%20Engineer&amp;descAlignY=62&amp;descSize=16" />
 </a>
 <a href="https://github.com/Bharathpriyan04">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathpriyan04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" width="40%" />
